@@ -1,0 +1,26 @@
+{
+  "name": "atividadefinal_ppi",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvimento de aplicação web com NodeJS - ECOGEST",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoCamponez/AtividadeFinal_PPI.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "javascript",
+    "programação"
+  ],
+  "author": "Thiago Camponêz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoCamponez/AtividadeFinal_PPI/issues"
+  },
+  "homepage": "https://github.com/ThiagoCamponez/AtividadeFinal_PPI#readme"
+}
