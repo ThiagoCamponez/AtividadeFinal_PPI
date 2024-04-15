@@ -1,8 +1,9 @@
 {
-  "name": "atividadefinal_ppi",
+  "name": "backendfinal",
   "version": "1.0.0",
-  "description": "Projeto desenvolvimento de aplicação web com NodeJS - ECOGEST",
+  "description": "Backend do cadastro de colaborador",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,15 +13,19 @@
     "url": "git+https://github.com/ThiagoCamponez/AtividadeFinal_PPI.git"
   },
   "keywords": [
-    "nodejs",
-    "express",
-    "javascript",
-    "programação"
+    "backend",
+    "trabalho",
+    "final"
   ],
-  "author": "Thiago Camponêz",
+  "author": "Thiago Camponez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThiagoCamponez/AtividadeFinal_PPI/issues"
+    "url": "https://github.com/ThiagoCamponez/AtividadeFinal_PPI.git"
   },
-  "homepage": "https://github.com/ThiagoCamponez/AtividadeFinal_PPI#readme"
+  "homepage": "https://github.com/ThiagoCamponez/AtividadeFinal_PPI.git#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.4"
+  }
 }
